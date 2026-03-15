@@ -9,4 +9,7 @@
 > - ❌ 您不得用于商业目的。
 > - ❌ 您不得修改、改编或基于本作品创作衍生作品。
 > 
-> 查看详细许可证文件：[LICENSE](./LICENSE.md)
+> 查看详细许可证文件：[LICENSE](./LICENSE.md) 
+>
+> 或查看许可书官方网站完整许可文本：[网站](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode)
+> 
